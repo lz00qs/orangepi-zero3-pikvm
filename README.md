@@ -42,6 +42,7 @@ See this [repo](https://github.com/lz00qs/orangepi-zero3-pikvm-hardware) to get 
 | Name | Reference | Quantity | Price(RMB) | Source | Comment |
 |  ----  |  ----  |  ----  |  ----  |  ----  |  ----  |
 | Orange Pi Zero 3 | | 1 | 99 | Taobao | |
+| MS2109 USB capture device | | 1 | 40 | Taobao or PDD | |
 | PCB | | 2 | 0 | JLC | |
 | 100nF 50V 0603 MLCC | C1, C2 | 2 | 0.02 | Taobao | |
 | 5.1K 0402 SMD Resistor | R1, R2, R3, R4 | 4 | 0.04 | Taobao | Optional |
