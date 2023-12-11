@@ -60,6 +60,10 @@ See this [repo](https://github.com/lz00qs/orangepi-zero3-pikvm-hardware) to get 
 
 Notice that if your motherboard doesn't set the USB power to be on all the time, then you need to DIY a Type-C cable to separate the Orange Pi Zero3 Type-C's power and data.
 
+![img_v3_0261_7aa79fd3-59d6-4630-a5eb-e2363d4440eg](assets/img_v3_0261_7aa79fd3-59d6-4630-a5eb-e2363d4440eg.jpg)
+
+
+
 ## Future development
 - [ ] Replace copy build system with patch build system
 - [ ] WiFi/BT module
