@@ -17,6 +17,8 @@ You can learn about pikvm in their [official repo](https://github.com/pikvm/pikv
 
 ![img_v3_0261_e62348c7-42ee-4bb0-b5f9-4cc7533bfa0g](assets/img_v3_0261_e62348c7-42ee-4bb0-b5f9-4cc7533bfa0g.jpg)
 
+![img_v3_0261_53c2b05e-384b-4ca9-8df0-977605d8350g](assets/img_v3_0261_53c2b05e-384b-4ca9-8df0-977605d8350g.jpg)
+
 
 
 ## What is working
