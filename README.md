@@ -34,6 +34,8 @@ You can learn about pikvm in their [official repo](https://github.com/pikvm/pikv
 ### Software
 Not only can you download the image directly from releases, but you can also use this [repo](https://github.com/lz00qs/orangepi-zero3-pikvm-builder) to build a flashable image yourself.
 Then use the balenaetcher or dd to burn the image to the TF card.
+* Default root password is `root`
+* Default web user is `admin` and default web user password is `admin` 
 
 ### Hardware
 See this [repo](https://github.com/lz00qs/orangepi-zero3-pikvm-hardware) to get all the PCB and printable 3D models.
