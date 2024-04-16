@@ -29,6 +29,7 @@ You can learn about pikvm in their [official repo](https://github.com/pikvm/pikv
 - [x] ATX power control
 - [x] OLED module system info display
 - [ ] WiFi/BT module is not working. Because of the use of a module(Cdtech 20U5622) from a small Chinese manufacturer, driver adaptation has not yet been achieved.
+- [ ] WebRTC/H.264 is not supported. See [PiKVM official docs](https://docs.pikvm.org/webrtc/)
 
 ## How to make it
 ### Software
